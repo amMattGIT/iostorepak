@@ -2,6 +2,8 @@
 
 The purpose of this tool is to allow cooked assets to be packaged in the I/O Store format. This means you can extract assets from a game, edit them in your preferred asset editor, and then package them for release, without needing to worry about reverse engineering anything.
 
+The nexus mods page for this tool is [here](https://www.nexusmods.com/gothamknights/mods/422).
+
 ## Requirements
 
 - A compiled build of Unreal Engine (4.25+ for Gotham Knights)
