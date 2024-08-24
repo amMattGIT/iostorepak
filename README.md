@@ -60,7 +60,7 @@ Starts packaging the assets. The Unreal Automation tool is used for this, meanin
 
 ## Additional Info
 
-Big credit to @Phnx for figuring out the automation tool could skip the cooking process for I/O store packaging. That's the whole reason I decided to create this tool.
+Big credit to [@Phnx](https://next.nexusmods.com/profile/Phnx) for figuring out the automation tool could skip the cooking process for I/O store packaging. That's the whole reason I decided to create this tool.
 
 ## If you'd like to support me
 
