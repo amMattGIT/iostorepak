@@ -38,6 +38,8 @@ Select which assets should be packaged. Sub-options available:
 - **Select Files:** Select individual files (`.uasset` and `.uexp`).
 - **Select Folder:** Select an entire folder. Subfolders and assets will be included.
 
+- > **Note:** The location of your assets do not matter but the directory structure must match the game, e.g. `....\Content\Character\Recipes\Player\Robin\Casual`.
+
 ### Chunk Number
 
 Specify the chunk ID/number your packaged files will use.
