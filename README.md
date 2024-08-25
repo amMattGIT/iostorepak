@@ -58,7 +58,7 @@ Toggles Dark Mode (lol).
 
 Starts packaging the assets. The Unreal Automation tool is used for this, meaning a window for the automation tool will open and proceed with the packaging.
 
-> **Note:** The automation tool window will automatically close once done. The IOStorePak tool will inform you with a pop-up once done.
+> **Note:** The automation tool window will automatically close once done. The IOStorePak tool will inform you with a pop-up.
 
 ## Additional Info
 
